@@ -1,0 +1,44 @@
+.main-body {
+    margin-top: 4em;
+    background-color: aquamarine;
+    align-content: center;
+    height: 30.5em;
+    width: 25em;
+    margin-left: 30em;
+}
+
+#result {
+    height: 7em;
+    width: 29em;
+    margin-left: 0.25em;
+    margin-top: 0.25em;
+    text-align: right;
+}
+
+.numbers {
+    height: 7em;
+    width: 7em;
+}
+ 
+.button {
+    margin-left: 0.5em;
+
+}
+
+.label {
+    margin-top: 1.5em;
+    font-size:4em;
+    margin-left: 6.5em;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(32, 100, 165);
+}
+
+body {
+    background-image: linear-gradient(180deg, rgba(157, 163, 140, 0.329), rgb(155, 155, 136));
+  }
+
+html {
+    height: 100%;
+}
+
